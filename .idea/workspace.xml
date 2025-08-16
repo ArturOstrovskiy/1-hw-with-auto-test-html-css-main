@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8a58519f-726e-4b57-af68-90dfd24eb4a3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +56,7 @@
       <updated>1755278929786</updated>
       <workItem from="1755278931164" duration="191000" />
       <workItem from="1755282346177" duration="5347000" />
-      <workItem from="1755350256955" duration="2500000" />
+      <workItem from="1755350256955" duration="5057000" />
     </task>
     <servers />
   </component>
@@ -65,6 +64,6 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/1_hw_with_auto_test_html_css_main$index_html.dat" NAME="index.html Coverage Results" MODIFIED="1755352395978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/1_hw_with_auto_test_html_css_main$index_html.dat" NAME="index.html Coverage Results" MODIFIED="1755357633680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
